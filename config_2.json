@@ -1,0 +1,1 @@
+{"block_1": {"layers": 1, "filters": 16, "kernels": 3}, "block_2": {"layers": 3, "filters": 16, "kernels": 1}, "block_3": {"layers": 2, "filters": 32, "kernels": 3}}
